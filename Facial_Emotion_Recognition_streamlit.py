@@ -1,3 +1,6 @@
+# This is the code to run as application
+# You will be asked to turn the camera on for recognizing the facial emotions.
+
 from tensorflow import keras
 import numpy as np
 import streamlit as st
