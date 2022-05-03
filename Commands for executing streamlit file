@@ -7,4 +7,6 @@ step2: change the directory to the folder where 'Streamlit_FER.py' using the bel
 step3: run the streamlit file
         streamlit run Streamlit_FER.py
 
-It opens up a streamlit website in a web browser where we have to tick the 'Turn Camera on' checkbox to see our face and the emotion we are showing.
+This opens up a streamlit website in a web browser.
+Check the 'Turn Camera on' to open the webcamera.
+
