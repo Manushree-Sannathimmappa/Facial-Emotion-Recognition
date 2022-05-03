@@ -1,0 +1,8 @@
+# steps for running streamlit file
+
+step1: open terminal
+step2: change the directory to the folder where 'Streamlit_FER.py' using the below command
+        cd <path_for_Streamlit_FER.py_folder>
+       
+step3: run the streamlit file
+        streamlit run Streamlit_FER.py
